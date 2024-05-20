@@ -1,0 +1,12 @@
+https://applyingml.com/resources/rl-for-recsys/
+https://towardsdatascience.com/how-to-use-reinforcement-learning-to-recommend-content-6d7f9171b956
+https://medium.com/ibm-data-ai/recommendation-systems-using-reinforcement-learning-de6379eecfde
+
+https://medium.com/@vibhu12345/building-a-recommendation-system-for-amazon-fashion-products-part-1-6469b58bd427
+https://medium.com/@vibhu12345/building-a-recommendation-system-for-amazon-fashion-products-using-dqn-beta-855b1ff7834e
+
+https://paperswithcode.com/method/dqn
+
+Candidate datasets:
+https://cseweb.ucsd.edu//~jmcauley/datasets.html
+https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
