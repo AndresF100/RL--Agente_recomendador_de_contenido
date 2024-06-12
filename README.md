@@ -44,8 +44,8 @@ Tras la ejecución de 2000 episodios y la siguiente configuración de parámetro
 ## Instalación
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/usuario/sistema_recomendacion_rl.git
-    cd sistema_recomendacion_rl
+    git clone https://github.com/usuario/RL--Agente_recomendador_de_contenido.git
+    cd RL--Agente_recomendador_de_contenido
     ```
 
 2. Instalar las dependencias:
